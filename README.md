@@ -2,7 +2,7 @@
 
 <p style="text-align:center"> to run:</p>
     <ul>
-        <li>git clone https://github.com/yourusername/your-repository-name.git</li>
+        <li>git clone https://github.com/xoni178/weather_app_java.git</li>
         <li>mvn clean install</li>
     </ul>
 
