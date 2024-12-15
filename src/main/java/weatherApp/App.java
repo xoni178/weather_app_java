@@ -13,12 +13,7 @@ public class App {
 
             @Override
             public void run() {
-//                System.out.println("Root of classpath: " + getClass().getClassLoader().getResource("clear.png"));
                 new AppGUI().setVisible(true);
-
-//                Map<String, Double> weatherData = AppLogic.getWeatherData("tokyo");
-
-
             }
 
         });
